@@ -1,0 +1,3 @@
+---
+- name: dbjfds
+  command: whoami
