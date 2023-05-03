@@ -1,3 +1,6 @@
 ---
 - name: dbjfds
-  command: whoami
+  hosts: all
+  tasks: 
+    - name: dkj
+      command: whoami
